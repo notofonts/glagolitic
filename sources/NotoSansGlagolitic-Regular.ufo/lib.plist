@@ -10,6 +10,15 @@
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
+	<key>com.schriftgestaltung.font.customParameters</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Use Typo Metrics</string>
+			<key>value</key>
+			<true/>
+		</dict>
+	</array>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>UUID0</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
