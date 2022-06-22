@@ -1,0 +1,9 @@
+{
+    "tests": [
+        {
+            "input": "ⱆ︮Ⰳ︯",
+            "expectation": "uni2C46=0+738|uniFE2E=0@-391,391+0|uni2C03=2+958|uniFE2F=2@-458,389+0",
+            "note": "Issue #1"
+        }
+    ]
+}
