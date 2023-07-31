@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="u1E017" format="2">
+  <advance width="0"/>
   <unicode hex="1E017"/>
+  <anchor x="0" y="556" name="_top"/>
+  <anchor x="0" y="976" name="top"/>
   <outline>
     <contour>
       <point x="-28" y="524" type="line"/>
@@ -44,7 +47,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/04/18 13:24:41</string>
+      <string>2023-07-31 13:55:14 +0000</string>
     </dict>
   </lib>
 </glyph>

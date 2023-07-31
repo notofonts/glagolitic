@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="u1E01C" format="2">
+  <advance width="0"/>
   <unicode hex="1E01C"/>
   <anchor x="53" y="605" name="_top"/>
+  <anchor x="0" y="908" name="top"/>
   <outline>
     <contour>
       <point x="34" y="605" type="curve" smooth="yes"/>
@@ -50,7 +52,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/04/18 13:24:41</string>
+      <string>2023-07-31 13:54:41 +0000</string>
     </dict>
   </lib>
 </glyph>
