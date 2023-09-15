@@ -12,6 +12,8 @@
     <integer>-293</integer>
     <key>familyName</key>
     <string>Noto Sans Glagolitic</string>
+    <key>italicAngle</key>
+    <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2017/03/14 14:32:41</string>
     <key>openTypeHheaAscender</key>
@@ -90,32 +92,32 @@
     <integer>293</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <real>-15.0</real>
-      <real>0.0</real>
-      <real>536.0</real>
-      <real>551.0</real>
-      <real>714.0</real>
-      <real>729.0</real>
-      <real>1069.0</real>
-      <real>1084.0</real>
+      <integer>-15</integer>
+      <integer>0</integer>
+      <integer>536</integer>
+      <integer>551</integer>
+      <integer>714</integer>
+      <integer>729</integer>
+      <integer>1069</integer>
+      <integer>1084</integer>
     </array>
     <key>postscriptFontName</key>
     <string>NotoSansGlagolitic-Regular</string>
     <key>postscriptOtherBlues</key>
     <array>
-      <real>-308.0</real>
-      <real>-293.0</real>
+      <integer>-308</integer>
+      <integer>-293</integer>
     </array>
     <key>postscriptStemSnapH</key>
     <array>
-      <real>79.0</real>
-      <real>44.0</real>
-      <real>71.0</real>
+      <integer>79</integer>
+      <integer>44</integer>
+      <integer>71</integer>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <real>90.0</real>
-      <real>56.0</real>
+      <integer>90</integer>
+      <integer>56</integer>
     </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-100</integer>

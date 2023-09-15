@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb" format="2">
+  <advance width="0"/>
   <unicode hex="0303"/>
   <anchor x="0" y="605" name="_top"/>
   <outline>
@@ -26,10 +27,4 @@
       <point x="-175" y="685"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/04/18 13:24:41</string>
-    </dict>
-  </lib>
 </glyph>

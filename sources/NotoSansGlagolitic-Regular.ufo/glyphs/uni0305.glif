@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0305" format="2">
+  <advance width="0"/>
   <unicode hex="0305"/>
   <anchor x="0" y="605" name="_top"/>
   <outline>
@@ -10,10 +11,4 @@
       <point x="-208" y="687" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/04/18 13:24:41</string>
-    </dict>
-  </lib>
 </glyph>
