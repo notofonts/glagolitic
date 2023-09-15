@@ -1,33 +1,33 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="titlolefthalfcomb-cy" format="2">
-  <unicode hex="FE2E"/>
-  <anchor x="-1" y="536" name="_top"/>
-  <outline>
-    <contour>
-      <point x="-60" y="605" type="line"/>
-      <point x="-65" y="633"/>
-      <point x="-79" y="643"/>
-      <point x="-107" y="643" type="curve" smooth="yes"/>
-      <point x="-138" y="643"/>
-      <point x="-154" y="626"/>
-      <point x="-154" y="592" type="curve" smooth="yes"/>
-      <point x="-154" y="556"/>
-      <point x="-136" y="540"/>
-      <point x="-97" y="540" type="curve" smooth="yes"/>
-      <point x="653" y="540" type="line"/>
-      <point x="653" y="605" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Mark</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-06-21 15:46:19 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>cyrillic</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Nonspacing</string>
-    </dict>
-  </lib>
+	<unicode hex="FE2E"/>
+	<outline>
+		<contour>
+			<point x="-60" y="775" type="line"/>
+			<point x="-65" y="803"/>
+			<point x="-79" y="813"/>
+			<point x="-107" y="813" type="curve" smooth="yes"/>
+			<point x="-138" y="813"/>
+			<point x="-154" y="796"/>
+			<point x="-154" y="762" type="curve" smooth="yes"/>
+			<point x="-154" y="726"/>
+			<point x="-136" y="710"/>
+			<point x="-97" y="710" type="curve" smooth="yes"/>
+			<point x="653" y="710" type="line"/>
+			<point x="653" y="775" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="-1" y="715"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-09-15 11:21:48 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>cyrillic</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+		</dict>
+	</lib>
 </glyph>
