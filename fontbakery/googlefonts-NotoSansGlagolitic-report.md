@@ -1,32 +1,15 @@
 ## FontBakery report
 
-fontbakery version: 0.9.0
+fontbakery version: 0.9.2
 
-<details><summary><b>[11] NotoSansGlagolitic-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Checking OS/2 achVendID. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id">com.google.fonts/check/vendor_id</a>)</summary><div>
-
-
-* 💔 **ERROR** The condition <FontBakeryCondition:registered_vendor_ids> had an error: ModuleNotFoundError: No module named 'bs4'
-</div></details><details><summary>💔 <b>ERROR:</b> Show hinting filesize impact. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/hinting_impact">com.google.fonts/check/hinting_impact</a>)</summary><div>
-
-
-* 💔 **ERROR** The condition <FontBakeryCondition:hinting_stats> had an error: ModuleNotFoundError: No module named 'dehinter'
-</div></details><details><summary>💔 <b>ERROR:</b> Check that no collisions are found while shaping (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Shaping Checks>.html#com.google.fonts/check/shaping/collides">com.google.fonts/check/shaping/collides</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed with ModuleNotFoundError: No module named 'collidoscope'
-</div></details><details><summary>💔 <b>ERROR:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Shaping Checks>.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed with ModuleNotFoundError: No module named 'shaperglot'
-</div></details><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
-
-
-* 🔥 **FAIL** Version number 2.0019989013671875 is equal to version on Google Fonts.
-* 🔥 **FAIL** Version number 2.0019989013671875 is equal to version on Google Fonts GitHub repo.
-</div></details><details><summary>🔥 <b>FAIL:</b> Noto fonts must have an ARTICLE.en_us.html file (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/description/noto_has_article">com.google.fonts/check/description/noto_has_article</a>)</summary><div>
+<details><summary><b>[9] NotoSansGlagolitic-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Noto fonts must have an ARTICLE.en_us.html file (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/description/noto_has_article">com.google.fonts/check/description/noto_has_article</a>)</summary><div>
 
 
 * 🔥 **FAIL** This is a Noto font but it lacks an ARTICLE.en_us.html file [code: missing-article]
+</div></details><details><summary>🔥 <b>FAIL:</b> Checking font version fields (head and name table). (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/head.html#com.google.fonts/check/font_version">com.google.fonts/check/font_version</a>)</summary><div>
+
+
+* 🔥 **FAIL** head version is "2.00301" while name version string (for platform 3, encoding 1) is "Version 2.002; ttfautohint (v1.8.4.7-5d5b)". [code: mismatch]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check that texts shape as per expectation (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Shaping Checks>.html#com.google.fonts/check/shaping/regression">com.google.fonts/check/shaping/regression</a>)</summary><div>
 
 
@@ -112,9 +95,140 @@ Got: <svg class="shaping-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16
 
 	- u1E006
 
-	- 52 more.
+	- u1E008
 
-Use -F or --full-lists to disable shortening of long lists. [code: unattached-dotted-circle-marks]
+	- u1E009
+
+	- u1E00A
+
+	- u1E00B
+
+	- u1E00C
+
+	- u1E00D
+
+	- u1E00E
+
+	- u1E00F
+
+	- u1E010
+
+	- u1E011
+
+	- u1E012
+
+	- u1E013
+
+	- u1E014
+
+	- u1E015
+
+	- u1E016
+
+	- u1E017
+
+	- u1E018
+
+	- u1E01B
+
+	- u1E01C
+
+	- u1E01D
+
+	- u1E01E
+
+	- u1E01F
+
+	- u1E020
+
+	- u1E021
+
+	- u1E023
+
+	- u1E024
+
+	- u1E026
+
+	- u1E027
+
+	- u1E028
+
+	- u1E02A
+
+	- uni0302
+
+	- uni0304
+
+	- uni0305
+
+	- uni0306
+
+	- uni0307
+
+	- uni0308
+
+	- uni030A
+
+	- uni030B
+
+	- uni030C
+
+	- uni0312
+
+	- uni0326
+
+	- uni0327
+
+	- uni0328
+
+	- uni0483
+
+	- uni0484
+
+	- uni0487
+
+	- uniA66F
+
+	- uniFE24
+
+	- uniFE25
+
+	- uniFE26
+
+	- uniFE2E
+
+	- uniFE2F [code: unattached-dotted-circle-marks]
+</div></details><details><summary>⚠ <b>WARN:</b> Check for codepoints not covered by METADATA subsets. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/metadata/unreachable_subsetting">com.google.fonts/check/metadata/unreachable_subsetting</a>)</summary><div>
+
+
+* ⚠ **WARN** The following codepoints supported by the font are not covered by
+    any subsets defined in the font's metadata file, and will never
+    be served. You can solve this by either manually adding additional
+    subset declarations to METADATA.pb, or by editing the glyphset
+    definitions.
+
+ * U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh
+ * U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition
+ * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
+ * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
+ * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
+ * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, cherokee, math
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: math, malayalam, tifinagh, old-permic, canadian-aboriginal, tai-le, coptic, syriac
+ * U+030A COMBINING RING ABOVE: try adding syriac
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+ * U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition
+ * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
+ * U+0327 COMBINING CEDILLA: not included in any glyphset definition
+ * U+0328 COMBINING OGONEK: not included in any glyphset definition
+ * U+25CC DOTTED CIRCLE: try adding one of: duployan, hebrew, javanese, batak, brahmi, thaana, tamil, coptic, syriac, mahajani, tagbanwa, chakma, lao, hanifi-rohingya, math, sinhala, myanmar, tai-le, kharoshthi, tirhuta, lepcha, mandaic, devanagari, psalter-pahlavi, tibetan, yi, khudawadi, hanunoo, gurmukhi, tagalog, oriya, sundanese, tai-viet, tifinagh, nko, music, dogra, elbasan, caucasian-albanian, bhaiksuki, bengali, buginese, phags-pa, wancho, khojki, zanabazar-square, buhid, syloti-nagri, modi, kaithi, manichaean, mende-kikakui, takri, old-permic, cham, khmer, marchen, pahawh-hmong, adlam, kannada, meetei-mayek, new-tai-lue, limbu, sogdian, balinese, telugu, thai, grantha, soyombo, bassa-vah, osage, symbols, rejang, miao, malayalam, sharada, siddham, newa, gunjala-gondi, masaram-gondi, ahom, gujarati, mongolian, kayah-li
+ * U+FE24 COMBINING MACRON LEFT HALF: try adding one of: coptic, caucasian-albanian
+ * U+FE25 COMBINING MACRON RIGHT HALF: try adding one of: coptic, caucasian-albanian
+ * U+FE26 COMBINING CONJOINING MACRON: try adding one of: coptic, caucasian-albanian
+
+Or you can add the above codepoints to one of the subsets supported by the font: `cyrillic-ext`, `glagolitic`, `latin`, `latin-ext` [code: unreachable-subsetting]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -143,14 +257,24 @@ The following math glyphs have a different width, though:
 Width = 322:
 minus
  [code: width-outliers]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Shaping Checks>.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+
+
+* ⚠ **WARN** The dot of soft dotted characters used in orthographies _must_ disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌
+
+The dot of soft dotted characters _should_ disappear in other cases, for example: i̅ i҄ i҇ i꙯ i̦̅ i̦҄ i̦҇ i̦꙯ i̧̅ i̧҄ i̧҇ i̧꙯ j̅ j҄ j҇ j꙯ j̦̅ j̦҄ j̦҇ j̦꙯
+
+Your font fully covers the following languages that require the soft-dotted feature: Dutch (Latn, 31,709,104 speakers), Lithuanian (Latn, 2,357,094 speakers). 
+
+Your font does *not* cover the following languages that require the soft-dotted feature: Navajo (Latn, 166,319 speakers), Igbo (Latn, 27,823,640 speakers), Aghem (Latn, 38,843 speakers), Belarusian (Cyrl, 10,064,517 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Basaa (Latn, 332,940 speakers). [code: soft-dotted]
 </div></details><br></div></details>
 
 ### Summary
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 4 | 4 | 3 | 118 | 6 | 115 | 0 |
-| 2% | 2% | 1% | 47% | 2% | 46% | 0% |
+| 0 | 4 | 5 | 118 | 7 | 115 | 0 |
+| 0% | 2% | 2% | 47% | 3% | 46% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
