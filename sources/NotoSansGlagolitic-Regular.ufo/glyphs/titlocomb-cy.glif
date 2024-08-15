@@ -2,8 +2,8 @@
 <glyph name="titlocomb-cy" format="2">
   <advance width="0"/>
   <unicode hex="0483"/>
-  <anchor x="-278" y="536" name="_top"/>
   <anchor x="-276" y="927" name="top"/>
+  <anchor x="-278" y="536" name="_top"/>
   <outline>
     <contour>
       <point x="-366" y="771" type="line"/>
