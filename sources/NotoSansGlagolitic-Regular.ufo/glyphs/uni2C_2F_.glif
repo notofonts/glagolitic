@@ -2,7 +2,7 @@
 <glyph name="uni2C2F" format="2">
   <advance width="648"/>
   <unicode hex="2C2F"/>
-  <guideline x="-80" y="36"/>
+  <guideline x="-80" y="36" angle="0"/>
   <guideline x="324" y="792" angle="90"/>
   <anchor x="324" y="927" name="top"/>
   <outline>
